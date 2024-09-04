@@ -1,2 +1,2 @@
 # Student-Records
-Simple studnent information app  Using sqflite
+Simple student information app  Using sqflite
