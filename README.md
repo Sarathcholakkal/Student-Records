@@ -1,5 +1,5 @@
 # Student-Records
- student information Recorde app  Using sqflite
+ student information Records app  Using sqflite
 
  # screenshot 
 
