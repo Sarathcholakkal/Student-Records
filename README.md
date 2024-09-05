@@ -8,5 +8,5 @@
 ![search](https://github.com/user-attachments/assets/658e7088-11f0-4b1e-a030-a7bea2a145af)
 ![edit screen](https://github.com/user-attachments/assets/58b41900-a069-4d52-b07b-6c664533e3d8)
 <p align="center">
-  <img width="460" height="300" src="https://github.com/user-attachments/assets/58b41900-a069-4d52-b07b-6c664533e3d8" >
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/58b41900-a069-4d52-b07b-6c664533e3d8/460/300" >
 </p>
